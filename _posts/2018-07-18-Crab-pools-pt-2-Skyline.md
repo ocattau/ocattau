@@ -9,13 +9,13 @@ Today Sam speed vac-ed the pools and put them on ice. We mixed the samples and r
 
 ## Crab Sample Pools (GitHub issue [#311](https://github.com/RobertsLab/resources/issues/311))
 So when Sam got in around 7am, he put the crab pool sample tubes back in the speed vac on medium. After four hours, he collected them and put them on ice. (**Combined with yesterday, the samples starting at 270ul volume got down to 26-34ul volume after 6 hours in the speed vac on medium heat**) I then vortexed them to try to mix the precipitate in the samples. Sam pipetted them to mix and then spun them down. I then ran Qubit on the pool tubes, making sure to avoid the pellets on the bottom (so as to not misleadingly inflate the results). The results were bad- way too low.       
-![img](https://github.com/grace-ac/grace-ac.github.io/blob/master/notebook-images/20180718-qubit-pool-res.png)
+![img](../notebook-images/20180718-qubit-pool-res.png)
 
 The UW Core facility needs the pool sample tubes to have at least 20ng/ul of RNA in a 50ul tube.      
 Some potential reasons for this could be that the original samples Qubit readings were inaccurate or that the RNA has degraded and since the Qubit dye only binds to non-degraded RNA, a Nanodrop could potentially tell us if there is RNA in the samples.
 
 We ran the samples on Nanodrop. The results were not good. There was noise and no peak at 260 nm (wavelength). Here is the output file screenshot from those results. pool_master had to be run a second time because the first time didn't work.      
-![img](https://github.com/grace-ac/grace-ac.github.io/blob/master/notebook-images/Nanodrop20180718.PNG)
+![img](../notebook-images/Nanodrop20180718.PNG)
 
 ### Next steps on Crab sample pools
 Since I'm going to be out of town until next Thursday and we want to get these pools to the CORe to be sequenced ASAP (the turnaround time will be 3-4 months) Sam will thaw all my samples that were used to make the pools (as can be seen on the pool tabs in this spreadsheet: [20180702-crab-sampling-file.csv](https://github.com/RobertsLab/project-crab/blob/master/data/20180702-crab-sampling-file.xls)) and vortex them to mix, then re-run the Qubit on all of them to see if my original Qubit readings were innaccurate. If they were, then he would re-work the pooling volumes from each sample such that we hit at least the minimum amount of 20ng/ul RNA in a 50ul sample. 
