@@ -9,12 +9,12 @@ CRAB RNA POOLS: Today I started using the Speed Vac on the three pools with Sam.
 
 ## Speed Vac
 ### **Started at 10:30am on low temperature (room temperature)**      
-![img](https://github.com/grace-ac/grace-ac.github.io/blob/master/notebook-images/20180717-SpeedVac_01.JPG)
-![img](https://github.com/grace-ac/grace-ac.github.io/blob/master/notebook-images/20180717-SpeedVac_Vacuum.JPG)
-![img](https://github.com/grace-ac/grace-ac.github.io/blob/master/notebook-images/20180717-SpeedVac_temp.JPG)
+![img](../notebook-images/20180717-SpeedVac_01.JPG)
+![img](../notebook-images/20180717-SpeedVac_Vacuum.JPG)
+![img](../notebook-images/20180717-SpeedVac_temp.JPG)
 
 ### **Checked at 1:15pm. Still too much volume. Increased temp to medium**
-![img](https://github.com/grace-ac/grace-ac.github.io/blob/master/notebook-images/20180717-speedvac_medium.jpg)
+![img](../notebook-images/20180717-speedvac_medium.jpg)
 
 ### **Checked on it at 3:15pm. Still too much volume**     
 Sam offered to put it back in the Speed Vac at medium temperature tomorrow morning when he gets in to FTR. It will hopefully be done by lab meeting. Because there is some precipate in the tubes (precipitate could be salts from the RNA isolation process or un-dissolved RNA), we will mix and Qubit the pooled tubes to get an accurate RNA concentration reading and then adjust the volume for the pools if need be. The CORE facility needs _**"RNA normalized to a minimum of 20ng/uL with a total volume of 50uL."**_ (GitHub Issue [#184](https://github.com/RobertsLab/resources/issues/184))
