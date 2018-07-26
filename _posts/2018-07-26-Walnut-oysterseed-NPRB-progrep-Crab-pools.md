@@ -11,7 +11,7 @@ Today I started using Walnut (upgraded PECAN) to create a new BLIB file for the 
 Walnut is an upgraded PECAN and is used to create the BLIB file which I will use in my [DIA analysis](https://github.com/RobertsLab/resources/blob/master/protocols/DIA-data-Analyses.md) of the [2015 Oysterseed RAW files](http://owl.fish.washington.edu/phainopepla/C_gigas/2015-12-30/) in Skyline. 
 
 I converted the RAW files to mzML using MSConvert. Then, I uploaded those files to Walnut. Will take a long time so I'll leave them alone and come back to them tomorrow morning.       
-![img](../master/notebook-images/Walnut01.PNG)
+![img](../notebook-images/Walnut01.PNG)
 
 ## NPRB Progress Report
 I called Pam this morning to go over the progress report which is due by July 31st (Tuesday). Unfortunately we'll have to change/add some things to it regarding the issue with the current pools as detailed in my previous notebook post: [Crab Pools and Skyline Update](https://github.com/grace-ac/grace-ac.github.io/blob/master/_posts/2018-07-18-Crab-pools-pt-2-Skyline.md). My post is from right before I left for a little vacation to visit family. So, Sam tried to take a closer look at what is going on.
