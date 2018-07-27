@@ -6,7 +6,7 @@ categories: [bairdi, 2015Oysterseed]
 tags: RNAisolation, DIA
 ---
 
-Moving foward in DIA (confusion in determining error rate, so I'm stuck); plans for tomorrow and RNA isolation.
+I figured out how to upload results in Skyline such that there are 4 tabs (because I have 4 samples) and each tab has four files associated with it. Moving foward in DIA (confusion in determining error rate, so I'm stuck); plans for tomorrow and RNA isolation.
 
 
 ### DIA Analysis
