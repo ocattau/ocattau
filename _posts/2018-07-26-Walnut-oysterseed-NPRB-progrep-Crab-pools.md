@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Trying out Walnut for BLIB for 2015 Oysterseed; Crab Pool Update
+title: Trying out Walnut; Crab Pool Update
 date: '2018-07-26'
 categories: [bairdi, 2015Oysterseed]
 tags: Walnut, Skyline, RNASeq
