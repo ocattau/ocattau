@@ -9,10 +9,10 @@ Today Walnut finished up using Walnut to make a new BLIB file with the 2015 C.gi
 
 ### Walnut
 When I arrived today, there was a "fatal error" in Walnut for February RAW files number 7 and 8. So I tried it again, but it still didn't work.       
-![img](../master/notebook-images/FatalError.PNG)
+![img](../notebook-images/FatalError.PNG)
 
 So then I went back to [owl and re-downloaded the two RAW files](http://owl.fish.washington.edu/phainopepla/C_gigas/2015-12-30/). I then converted them to .mzML using MSConvert. Then I added them to Walnut, and it worked! Then I hit "Save BLIB".         
-![img](../master/notebook-images/finishedBLIB.PNG)
+![img](../notebook-images/finishedBLIB.PNG)
 
 Then, I went through the [DIA protocol](https://github.com/RobertsLab/resources/blob/master/protocols/DIA-data-Analyses.md), but I made a few changes per Emma's suggestions. 
 - I used the new BLIB file I made using Walnut
