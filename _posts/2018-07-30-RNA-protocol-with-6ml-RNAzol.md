@@ -19,6 +19,12 @@ I ran the Qubit, and they were ALL "out of range/too low".
 
 I did not run the Nanodrop, because I can't remember how to use it. I will do it first thing tomorrow when Sam is in. 
 
+The tubes I processed were:    
+- 411 --> COLD, INFECTED (note that it died before RNA sampling, suspect 219 tube OK, and has 3182/3184, but no way to be sure (**I don't understand this note - can ask Pam to clarify**))
+- 423 --> COLD, UNINFECTED
+- 503 --> AMBIENT, INFECTED
+- 515 --> AMBIENT, UNINFECTED
+
 ## Goals for tomorrow:
 - Run Nanodrop on the samples I isolated yesterday
 - Run Bioanalyzer on the samples Sam isolated RNA from as well as some random ones selected from what I've already done
