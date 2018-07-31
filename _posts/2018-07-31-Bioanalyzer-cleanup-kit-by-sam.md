@@ -19,22 +19,22 @@ Used RNA Pico Chip. I ran the three samples that Sam isolated RNA from in [Novem
 457       
 
 I loaded the RNA pico chip according to the [protocol](https://github.com/grace-ac/grace-ac.github.io/blob/master/notebook-images/pico-chip-protocol.JPG). Vortex the chip (first time through, it didn't click in to the tension bar very well and popped out. I ran it anyway, but this error popped up:)      
-![img](../master/notebook-images/Error.PNG)
+![img](../notebook-images/Error.PNG)
 
 Use 2100 Expert software on the desktop. 
 
 Assay selection: RNA --> Eukaryote Total RNA Pico series II     
 Save --> Custom --> Desktop\data\RobertsLab     
 After the chip is loaded, name the samples      
-![img](../master/notebook-images/bioanalyzer-software-image.JPG)    
+![img](../notebook-images/bioanalyzer-software-image.JPG)    
 Click START
 
 Results:    
 ### Electropherogram:    
-![img](../master/notebook-images/electropherogram.PNG)    
+![img](../notebook-images/electropherogram.PNG)    
 
 ### Gel:     
-![img](../master/notebook-images/Gel.PNG)
+![img](../notebook-images/Gel.PNG)
 
 Results aren't great. Sam noted that:      
 `A couple of things:      
@@ -50,10 +50,10 @@ Essential results:
 - New Qubit results are much lower (except for tubes 409 and 355) 
 ### Here's how his new cleaned results compare to my previous Qubit results:    
 My previous results (column highlighted in pink compares to the blue highlighted column in Sam's Qubit results:)    
-![img](../master/notebook-images/20180731-cleanup-master-pool-original-qubit.png)
+![img](../notebook-images/20180731-cleanup-master-pool-original-qubit.png)
 
 Sam's results       
-![img](../master/notebook-images/20180731-sam-rna-cleanup-qubit.png)
+![img](../notebook-images/20180731-sam-rna-cleanup-qubit.png)
 
 # Sam isolates RNA from hemolymph samples using RNeasy Plus Mini Kit (GitHub Issue [#327](https://github.com/RobertsLab/resources/issues/327))
 ## Link to his notebook post: [here](http://onsnetwork.org/kubu4/2018/07/31/rna-isolation-tanner-crab-hemolymph-using-rneasy-plus-mini-kit/)
