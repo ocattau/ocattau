@@ -17,6 +17,7 @@ Used RNA Pico Chip. I ran the three samples that Sam isolated RNA from in [Novem
 434      
 463             
 457       
+![img](../notebook-images/tubes-for-bioanalyzer.JPG)
 
 I loaded the RNA pico chip according to the [protocol](https://github.com/grace-ac/grace-ac.github.io/blob/master/notebook-images/pico-chip-protocol.JPG). Vortex the chip (first time through, it didn't click in to the tension bar very well and popped out. I ran it anyway, but this error popped up:)      
 ![img](../notebook-images/Error.PNG)
@@ -43,6 +44,9 @@ These have not been DNased, so it may not be surprising that these look crazy?`
 
 # Sam Cleans up Tanner Crab RNA (GitHub Issue [#330](https://github.com/RobertsLab/resources/issues/330))
 ## Link to his notebook post: [here](http://onsnetwork.org/kubu4/2018/07/31/rna-cleanup-tanner-crab-rna/)
+
+Samples used:    
+![img](../notebook-images/tubes-for-sam.JPG)
 
 Essential results:    
 - All concentrations were too low for detection via NanoDrop.
