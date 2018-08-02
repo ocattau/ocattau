@@ -13,7 +13,7 @@ Here are the samples I picked out for Sam:
 
 *Note: tubes 501 and 468 have had 1/3 tubes processed with RNAzol. The Qubit results have just been added (along with several other sample tubes' results) to the UPDATED [20180801-Qubit-consolidated.csv](https://github.com/RobertsLab/project-crab/blob/master/data/20180801-Qubit-consolidated.csv)
 
-### **The tubes are in a box in the -80: Rack 2, Column 3, Row 4** Labeled: "Samples for Sam; Crab hemolymph; 08/01/18"
+### **The tubes are in a [box in the -80](https://docs.google.com/spreadsheets/d/1Qsvz3QTURlPF_hX05BQxjom3484WuMfqQ1ILl9LEljU/edit#gid=2006985773): Rack 2, Column 3, Row 4** Labeled: "Samples for Sam; Crab hemolymph; 08/01/18"
 
 The box is organized such that each tube corresponds to the above picture by the box_spot column. For example, sample tube number 512 will be in position 27. The box is labeled 1 --> 9 , etc., so it should be easy see where all 40 samples are. I need to find replacements for 501 and 468 (because there are only 2 samples instead of 3, due to my failing to update the Qubit results data and not realizing those samples were already processed).
 
