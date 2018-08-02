@@ -23,7 +23,7 @@ I made a file today in R using "left_join" as a part of the dplyr package. I ori
 - [20180522-all-crabs-hemo.csv](https://github.com/RobertsLab/project-crab/edit/master/data/20180522-all-crabs-hemo.csv)
 
 I used left_join by "Uniq_ID" and it resulted in this file:   
-[20180801-all-hemo-RNA-Qubit.csv](https://raw.githubusercontent.com/RobertsLab/project-crab/master/data/20180801-all-hemo-RNA-Qubit.csv)   
+[20180801-hemo-Qubresults-missing.csv](https://raw.githubusercontent.com/RobertsLab/project-crab/master/data/20180801-hemo-Qubresults-missing.csv)   
 Each row is a sample, so each individual crab has multiple rows associated with it's unique FRP number. 
 
 However, after going through my Qubit results folder, I found a few Qubit results csv's that had tube numbers with results that weren't in the above file, meaning I failed to update the [20180514-all-Qubit-RNA-isolation.csv](https://github.com/RobertsLab/project-crab/edit/master/data/20180514-all-Qubit-RNA-isolation.csv) with the new Qubit results that I did after first creating that csv. 
