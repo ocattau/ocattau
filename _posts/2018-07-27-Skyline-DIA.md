@@ -17,11 +17,11 @@ So then I went back to [owl and re-downloaded the two RAW files](http://owl.fish
 Then, I went through the [DIA protocol](https://github.com/RobertsLab/resources/blob/master/protocols/DIA-data-Analyses.md), but I made a few changes per Emma's suggestions. 
 - I used the new BLIB file I made using Walnut
 - In [Step 4e (12)](https://github.com/RobertsLab/resources/blob/master/protocols/DIA-data-Analyses.md#step-4e-adjust-transition-settings-in-skyline), I changed the minutes to 5
-- In [Step 4f](https://github.com/RobertsLab/resources/blob/master/protocols/DIA-data-Analyses.md#step-4f-import-dia-data-into-skyline) I made sure I used the same .mzML files as the results that I used to create the BLIB in Walnut
-![img](../notebook-images/DIAStep4e-change-to-5mins.PNG)
+![img](../notebook-images/DIAStep4e-change-to-5mins.PNG)      
+- In [Step 4f](https://github.com/RobertsLab/resources/blob/master/protocols/DIA-data-Analyses.md#step-4f-import-dia-data-into-skyline) I made sure I used the same .mzML files as the results that I used to create the BLIB in Walnut and that each oysterseed sample was it's own subdirectory
 
 So, with all this changes, the peaks still looked awful. I didn't calculate an error rate because it felt like a waste of time. Instead I just looked at about 15 or 20 random peptides and noted that not one of them looked good. There was tons of noise and no clear peaks. I don't know what to do, so I emailed Emma and sent her a .zip of my Skyline document. I JUST sent it a little bit ago (around 4pm), and I know she's leaving for a bit, so she may not see it for a while, unfortunately. 
 
 I know Nick from Skyline suggested I use the Advanced Peak Picking option, but the [protocol](https://skyline.ms/_webdav/home/software/Skyline/@files/tutorials/PeakPicking_2-5.pdf) doesn't have super clear instructions for how to do this for DIA Analysis. Emma told me that the pipeline for this isn't super concrete yet, so that may be why I'm not sure how to do it. 
 
-I'll leave this for now and go back to it on Monday with some fresh eyes, and maybe a response from Emma...
+I'll leave this for now and go back to it on Monday with some fresh eyes...
