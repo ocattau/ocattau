@@ -18,7 +18,7 @@ Then, I went through the [DIA protocol](https://github.com/RobertsLab/resources/
 - I used the new BLIB file I made using Walnut
 - In [Step 4e (12)](https://github.com/RobertsLab/resources/blob/master/protocols/DIA-data-Analyses.md#step-4e-adjust-transition-settings-in-skyline), I changed the minutes to 5
 - In [Step 4f](https://github.com/RobertsLab/resources/blob/master/protocols/DIA-data-Analyses.md#step-4f-import-dia-data-into-skyline) I made sure I used the same .mzML files as the results that I used to create the BLIB in Walnut
-![img](../master/notebook-images/DIAStep4e-change-to-5mins.PNG)
+![img](../notebook-images/DIAStep4e-change-to-5mins.PNG)
 
 So, with all this changes, the peaks still looked awful. I didn't calculate an error rate because it felt like a waste of time. Instead I just looked at about 15 or 20 random peptides and noted that not one of them looked good. There was tons of noise and no clear peaks. I don't know what to do, so I emailed Emma and sent her a .zip of my Skyline document. I JUST sent it a little bit ago (around 4pm), and I know she's leaving for a bit, so she may not see it for a while, unfortunately. 
 
