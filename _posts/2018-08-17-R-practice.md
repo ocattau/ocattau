@@ -69,4 +69,4 @@ write.csv(updated, "20180816-all-hemo-with-Qubit.csv")
 Resulted in the new file's columns getting messed up.    
 [20180816-all-hemo-with-Qubit.csv](https://raw.githubusercontent.com/grace-ac/crab-sample-selection/master/20180816-all-hemo-with-Qubit.csv)
 The tube numbers are in column marked "X" now...      
-![img](../master/notebook-images/mess-up-tube-numbers.png)
+![img](../notebook-images/mess-up-tube-numbers.png)
