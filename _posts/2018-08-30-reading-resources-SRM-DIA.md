@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reading, Reading Resources for SRM and DIA
+title: Reading and Goals for now until Sept. 25th
 date: '2018-08-30'
 categories: [2015Oysterseed, bairdi]
 tags: [Reading, SRM, DIA]
