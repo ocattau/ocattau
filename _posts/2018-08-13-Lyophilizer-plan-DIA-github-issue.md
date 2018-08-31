@@ -11,10 +11,10 @@ Today I met with Steven and Sam to make a new plan for the crab RNA problem. We'
 Sam processed the 40 samples that I picked out from Day 26 (samples taken in triplicate) using the Qiagen RNeasy Kit. 15 of the 40 had detectable RNA with the Qubit. Here is a link to his notebook post: [RNA Isolation & Quantification - Tanner Crab Hemolymph](http://onsnetwork.org/kubu4/2018/08/09/rna-isolation-quantificaiton-tanner-crab-hemolymph/).
 
 Steven, Sam, and I talked a little before lab meeting to come up with a new game plan. I picked out 8 more samples (2 from each treatment group from day 26 except for the warm). I pulled out the pelleted hemolymph as well as the supernatant (RNAlater) that may have some cells in it.        
-![img](../master/notebook-images/samples-for-lyophilizer.png)
+![img](../notebook-images/samples-for-lyophilizer.png)
 
 I also pooled together all of the samples that Sam processed that had "out of range" Qubit results.        
-![img](../master/notebook-images/pooling-for-lyophilizer.png)
+![img](../notebook-images/pooling-for-lyophilizer.png)
 
 THe plan (once the Lyophilizer is fixed/ if it is fixed) is to put the samples in the lyophilizer (freeze dryer) overnight, then try out the Tri-reagent protocol on the 8 pelleted and 8 supernatant samples. I will re-quanitifiy the pooled sample using the QUbit.
 
