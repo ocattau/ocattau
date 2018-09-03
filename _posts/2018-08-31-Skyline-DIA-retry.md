@@ -14,15 +14,15 @@ New zip: [20180831-Cgseed](http://owl.fish.washington.edu/scaphapoda/grace/2015-
 I clicked through about 20 peptides to see what they looked like, and there's a mixed bag, however most are very noisy with no clear peak. 
 
 This one is pretty good and clean, but quite low intensity (y-axis):      
-![img](../master/notebook-images/20180831-good.PNG)
+![img](../notebook-images/20180831-good.PNG)
 
 This one has a lot of noise:    
-![img](../master/notebook-images/20180831-soso.PNG)
+![img](../notebook-images/20180831-soso.PNG)
 
 As does this one:    
-![img](../master/notebook-images/20180831-eh.PNG)
+![img](../notebook-images/20180831-eh.PNG)
 
 And this one is just bad. Many were like this:     
-![img](../master/notebook-images/20180831-bad.PNG)
+![img](../notebook-images/20180831-bad.PNG)
 
 I'm curious as to what will be done to fix/move on with this. I don't understand the Advanced Peak Picking Method, as it is not hashed out, but I am hoping to get to the point where I can start analyzing the data before school starts 9/25/18. 
