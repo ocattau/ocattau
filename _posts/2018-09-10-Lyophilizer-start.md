@@ -12,10 +12,10 @@ Start: 10:45am 09/10/18
 Samples:      
 **pooled sample of the ones from Sam's Qiagen RNEasy extraction that had "out of range" Qubit results**     
 **AND**        
-![img](../master/notebook-images/samples-for-lyophilizer.png)     
+![img](../notebook-images/samples-for-lyophilizer.png)     
    
 Lyophilizer setup:    
-![img](../master/notebook-images/lyophilizer.JPG)
+![img](../notebook-images/lyophilizer.JPG)
 
 In order to use (there are instructions on how to use that are posted in the room):     
 - make sure that the condenser (inside the machine- visible when you remove the cylindrical container and the cover) is dry
