@@ -23,7 +23,7 @@ Today I extracted RNA from four practice samples using Tri-reagent, and without 
 ![img](../notebook-images/20181005-step2.JPG)       
 
 3. incubated 5mins at RT       
-4. added 200uL of chloroform, vortexed 15s to mix        
+4. added 200uL of chloroform, pipet and then vortexed 15s to mix        
 ![img](../notebook-images/20181005-step4.JPG)          
 5. incubated at RT for 5mins           
 6. centrifuged 15mins, 12,000g, 4˚C        
