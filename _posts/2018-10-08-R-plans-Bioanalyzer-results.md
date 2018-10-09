@@ -5,7 +5,7 @@ date: '2018-10-08'
 category: bairdi
 tags: [R, Bioanalyzer]
 ---
-Today I discussed with Sam about how to use R for making a better master file. We identified some short term and long term goals for me to work on (and get help with via GitHub Issues). I also ran the Bioanalyzer on Test3 (from when lyophilizer was used and when ), and four samples that I extracted last Friday using (wihtout 
+Today I discussed with Sam about how to use R for making a better master file. We identified some short term and long term goals for me to work on (and get help with via GitHub Issues). I also ran the Bioanalyzer on Test3 (from when lyophilizer was used and using Tri-reagent ), and four samples that I extracted last Friday using (wihtout lyophilizer, with Tri-reagent). The Bioanalyzer didn't run great because the ladder and the markers didn't show up... will have to re-run. 
 
 # R code goals
 Long-term:    
@@ -37,6 +37,5 @@ The other four samples are from what I extracted (not lyophilized) using Tri-rea
 
 **Thoughts on the results:**     
 Clearly, the samples that I extracted on Friday were no good, even though they had detectable RNA.     
-The sample that Sam extracted looked quite good! So, it appears that lyophilizing samples before extracting using Tri-reagent is the way to go.
-
-Now we just have to wait to hear when the lyophilizer is fixed... or think of something else to try in the meantime. 
+The ladder didn't show up, so that's not good... I'll have to re-run.    
+[GitHub Issue #393](https://github.com/RobertsLab/resources/issues/393)
