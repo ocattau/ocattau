@@ -30,10 +30,10 @@ Test 3, one of the lyophilized samples from what [Sam extracted](http://onsnetwo
 The other four samples are from what I extracted (not lyophilized) using Tri-reagent protocol on [Friday](https://github.com/grace-ac/grace-ac.github.io/blob/master/_posts/2018-10-05-trireagent-extraction-no-lyophilizer.md).
 
 ### Electropherogram:     
-![img](https://github.com/grace-ac/grace-ac.github.io/blob/master/notebook-images/20181008-electropherogram.PNG)    
+![img](../notebook-images/20181008-electropherogram.PNG)    
 
 ### Gel:     
-![img](https://github.com/grace-ac/grace-ac.github.io/blob/master/notebook-images/20181008-gel.PNG)
+![img](../notebook-images/20181008-gel.PNG)
 
 **Thoughts on the results:**     
 Clearly, the samples that I extracted on Friday were no good, even though they had detectable RNA.     
