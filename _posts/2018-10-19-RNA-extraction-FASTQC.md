@@ -25,9 +25,9 @@ We received notice on Oct. 15th that our data from our [first library](https://g
 Sam did some [work with it](http://onsnetwork.org/kubu4/2018/10/15/data-received-chionoecetes-bairdi-rnaseq-fastqc-analysis/), but I'll be replicating some of it before I continue on. Currently, I'm working on running the [four .fastq files](http://owl.fish.washington.edu/nightingales/C_bairdi/) through FASTQC. 
 
 Here are url's to my output files:    
-file:///Users/graciecrandall/Downloads/304428_S1_L001_R1_001_fastqc/fastqc_report.html    
-file:///Users/graciecrandall/Downloads/304428_S1_L001_R2_001_fastqc/fastqc_report.html     
-file:///Users/graciecrandall/Downloads/304428_S1_L002_R1_001_fastqc/fastqc_report.html     
-file:///Users/graciecrandall/Downloads/304428_S1_L002_R2_001_fastqc/fastqc_report.html   
+[file:///Users/graciecrandall/Downloads/304428_S1_L001_R1_001_fastqc/fastqc_report.html](file:///Users/graciecrandall/Downloads/304428_S1_L001_R1_001_fastqc/fastqc_report.html)          
+[file:///Users/graciecrandall/Downloads/304428_S1_L001_R2_001_fastqc/fastqc_report.html](file:///Users/graciecrandall/Downloads/304428_S1_L001_R2_001_fastqc/fastqc_report.html)             
+[file:///Users/graciecrandall/Downloads/304428_S1_L002_R1_001_fastqc/fastqc_report.html](file:///Users/graciecrandall/Downloads/304428_S1_L002_R1_001_fastqc/fastqc_report.html)          
+[file:///Users/graciecrandall/Downloads/304428_S1_L002_R2_001_fastqc/fastqc_report.html](file:///Users/graciecrandall/Downloads/304428_S1_L002_R2_001_fastqc/fastqc_report.html)        
 
 I will be using this data for my [FISH546 project](https://github.com/fish546-2018/grace-Cbairdi-transcriptome). 
