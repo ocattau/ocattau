@@ -47,3 +47,6 @@ The samples are in purple tubes in Rack 5, Column 4, Row 3:
 
 ![img](../notebook-images/IMG_3586.JPG)
 
+---
+Qubit results from today (got off the USB 10/19/18)    
+[here](http://owl.fish.washington.edu/scaphapoda/grace/Crab-project/Qubit/QubitData_2018-10-10_18-19-56.csv)
