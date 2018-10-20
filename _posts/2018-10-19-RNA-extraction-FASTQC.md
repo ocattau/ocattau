@@ -35,9 +35,9 @@ I will be using this data for my [FISH546 project](https://github.com/fish546-20
 #### Some things I learned today/next steps notes:    
 - There are so many files in [/nightingales/C_bairdi/](http://owl.fish.washington.edu/nightingales/C_bairdi/) even though it is from 1 pooled sample because the sample was run in two lanes, and there was a reverse and a forward run. 
 - Next steps after FASTQC:   
-      - Combine files into one (concatenate)
-      - Trim (if necessary)
-      - Assemble
+      - Combine files into one (concatenate)      
+      - Trim (if necessary)        
+      - Assemble       
 
 
 This weekend and Monday I'll play around with Trinity. Tuesday in FISH546 class we'll go into the details of the FASTQC output to see what they mean. 
