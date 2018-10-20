@@ -31,3 +31,14 @@ Here are url's to my output files:
 [http://htmlpreview.github.io/?file:///Users/graciecrandall/Downloads/304428_S1_L002_R2_001_fastqc/fastqc_report.html](http://htmlpreview.github.io/?file:///Users/graciecrandall/Downloads/304428_S1_L002_R2_001_fastqc/fastqc_report.html)        
 
 I will be using this data for my [FISH546 project](https://github.com/fish546-2018/grace-Cbairdi-transcriptome). 
+
+#### Some things I learned today/next steps notes:    
+- There are so many files in [/nightingales/C_bairdi/](http://owl.fish.washington.edu/nightingales/C_bairdi/) even though it is from 1 pooled sample because the sample was run in two lanes, and there was a reverse and a forward run. 
+- Next steps after FASTQC:   
+      - Combine files into one (concatenate)
+      - Trim (if necessary)
+      - Assemble
+
+
+This weekend and Monday I'll play around with Trinity. Tuesday in FISH546 class we'll go into the details of the FASTQC output to see what they mean. 
+
