@@ -16,6 +16,8 @@ Since those looked so good, I [gave Sam some more samples](https://grace-ac.gith
 
 We [recieved the sequence data](http://onsnetwork.org/kubu4/2018/10/15/data-received-chionoecetes-bairdi-rnaseq-fastqc-analysis/) on October 15, 2018 ([Owl/nightingales/C_bairdi/](http://owl.fish.washington.edu/nightingales/C_bairdi/)).
 
+By next crab meeting (Next Thurs), I will have this data assembled and annotated. Currently looking into using Trinity. 
+
 ## Crab Extraction Plan for this week
 Extract RNA from a few more Day 26 samples using the Qiagen RNeasy Kit that Sam used and see what happens with yields and purity. 
 
