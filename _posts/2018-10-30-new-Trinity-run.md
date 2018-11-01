@@ -18,7 +18,9 @@ It is unknown exactly how this happened, but probably something in my settings.
 I learned that I should just stick with using ```rsync``` to move files from Owl to Mox, and vice versa. 
 ![img](https://user-images.githubusercontent.com/14934314/47742193-56a99100-dc39-11e8-96d9-f526f6aae543.png)
 
-I updated the file names in my [20181030_Cbairdi_trinity_01.sh](https://github.com/fish546-2018/grace-Cbairdi-transcriptome/blob/master/scripts/20181030_Cbairdi_trinity_01.sh) and re-sent the job on Mox.       
+I updated the file names in my [20181030_Cbairdi_trinity_01.sh](https://github.com/fish546-2018/grace-Cbairdi-transcriptome/blob/master/scripts/20181030_Cbairdi_trinity_01.sh) and re-sent the job on Mox.  
+
+[FastQC results](http://gannet.fish.washington.edu/Atumefaciens/20181015_Cbairdi_fastqc/multiqc_report.html)
 
 ### BLAST practice with Trinity.fasta
 Here is the output from the weekend's Trinity assembly, that was way too fast because it used the 64KB .fastq files:    
