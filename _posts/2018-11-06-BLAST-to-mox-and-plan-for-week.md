@@ -31,3 +31,4 @@ The job is officially in queue (# 428276).
 ### Friday:
 - Extract RNA using Qiagen RNeasy Micro Plus Kit from a subset of the samples I selected Wednesday
 - Check in on BLASTs
+- START WORKING ON GSS POSTER!!! GSS is Thurs Nov 15th
