@@ -81,7 +81,7 @@ I took the final output from that file and moved it into my [grace-Cbairdi-trans
 
 I then used a new [R script](https://github.com/fish546-2018/grace-Cbairdi-transcriptome/blob/master/scripts/plots.R) to make a weird pie chart. 
 
-![img](https://github.com/fish546-2018/grace-Cbairdi-transcriptome/blob/master/analyses/odd_pie.png)
+![img](../notebook-images/odd_pie.png)
 
 Because I'm trying to have something to put on a poster by tomorrow afternoon, I'll just use excel, per Steven's suggestion. Will learn the R or Jupyter notebook way once I don't have a time crunch. 
 
