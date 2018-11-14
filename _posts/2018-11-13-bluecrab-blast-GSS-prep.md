@@ -85,8 +85,11 @@ I then used a new [R script](https://github.com/fish546-2018/grace-Cbairdi-trans
 
 Because I'm trying to have something to put on a poster by tomorrow afternoon, I'll just use excel, per Steven's suggestion. Will learn the R or Jupyter notebook way once I don't have a time crunch. 
 
-## Trinity assembly stats using 
-[Cbairdi_01_transrate.ipynb](http://localhost:8888/notebooks/Documents/GitHub/grace-Cbairdi-transcriptome/notebooks/Cbairdi_01_transrate.ipynb)
+## Trinity assembly stats using TrinityStats.pl 
+I tacked this on to the end of my notebook where I used Transrate.     
+[Cbairdi_01_transrate.ipynb](http://localhost:8888/notebooks/Documents/GitHub/grace-Cbairdi-transcriptome/notebooks/Cbairdi_01_transrate.ipynb)    
+
+Info on what the stats mean: [here](https://github.com/trinityrnaseq/trinityrnaseq/wiki/Transcriptome-Contig-Nx-and-ExN50-stats)
 
 Will use some of these stats on my poster. 
 
