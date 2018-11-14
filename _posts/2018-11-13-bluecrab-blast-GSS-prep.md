@@ -127,3 +127,30 @@ Stats based on ALL transcript contigs:
 	Average contig: 873.95
 	Total assembled bases: 69687682
   ```
+  
+  ### Additional stuff done at home
+  ## BLASTn with _Hematodinium_
+  [make_hemat_blastdb.ipynb](https://github.com/fish546-2018/grace-Cbairdi-transcriptome/blob/master/notebooks/make_hemat_blastdb.ipynb)
+  
+  Upload blast db output to [owl](http://owl.fish.washington.edu/scaphapoda/grace/Crab-project/hemat_blastdb/).
+  
+  Run BLASTn on Mox. 
+  
+  Output in ```/gscratch/srlab/graceac9/analyses/1113-Cb-hemat-blastn```. 
+  
+  Head of the output file ```1113-cbairdi-hemat-blast.tab```:     
+  ```
+  [graceac9@mox2 1113-Cb-hemat-blastn]$ head 1113-cbairdi-hemat-blast.tab 
+TRINITY_DN21452_c0_g1_i1	GEMP01003524.1	98.601	429	3	2	427	3862	4290	0.0	756
+TRINITY_DN21452_c0_g2_i1	GEMP01003109.1	99.520	1874	8	1	154	2027	3975	2103	0.0	3410
+TRINITY_DN21473_c0_g2_i1	GEMP01157246.1	94.161	137	1	1	137	240	369	8.40e-51	202
+TRINITY_DN21473_c0_g1_i1	GEMP01004521.1	99.758	2478	5	1	119	2596	3699	1223	0.0	4542
+TRINITY_DN21473_c0_g1_i1	GEMP01004521.1	95.833	72	3	0	53	124	3888	3817	2.70e-24	117
+TRINITY_DN21498_c0_g2_i1	GEMP01004701.1	100.000	223	0	0	223	829	607	2.38e-114	412
+TRINITY_DN21498_c0_g1_i1	GEMP01004701.1	98.523	474	7	0	17	490	629	156	0.0	837
+TRINITY_DN21498_c0_g1_i1	GEMP01004701.1	100.000	46	0	0	53	608	563	1.38e-15	86.1
+TRINITY_DN21405_c0_g1_i2	GEMP01169947.1	98.188	276	5	0	277	276	1	3.08e-135	483
+TRINITY_DN21405_c0_g1_i1	GEMP01003188.1	99.445	541	3	0	542	541	1	0.0	983
+```
+  
+  
