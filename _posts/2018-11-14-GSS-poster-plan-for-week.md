@@ -12,7 +12,7 @@ Google slides link to poster: [here](https://docs.google.com/presentation/d/1-He
 
 ![img](../notebook-images/GSS-poster.png)
 
-I made the pie chart in excel really quick with this file: [Blastquery-GOslim-sep.csv](http://owl.fish.washington.edu/scaphapoda/grace/Crab-project/Blastquery-GOslim-sep.csv), which is the output file with columns tab delimited [using R](https://github.com/fish546-2018/grace-Cbairdi-transcriptome/blob/master/scripts/plots.R) from this python notebook: [11052018-C_bairdi-blastn.ipynb](https://github.com/fish546-2018/grace-Cbairdi-transcriptome/blob/master/notebooks/11052018-C_bairdi-blastn.ipynb).
+I made the pie chart in [excel](http://owl.fish.washington.edu/scaphapoda/grace/Blastquery-GOslim-sep.xlsx) really quick with this file: [Blastquery-GOslim-sep.csv](http://owl.fish.washington.edu/scaphapoda/grace/Crab-project/Blastquery-GOslim-sep.csv), which is the output file with columns tab delimited [using R](https://github.com/fish546-2018/grace-Cbairdi-transcriptome/blob/master/scripts/plots.R) from this python notebook: [11052018-C_bairdi-blastn.ipynb](https://github.com/fish546-2018/grace-Cbairdi-transcriptome/blob/master/notebooks/11052018-C_bairdi-blastn.ipynb).
 
 To make a poster, you can use google slides and set the dimensions to 48in w x 36 in h (File > Page Setup > Custom > adjust dimensions.
 
