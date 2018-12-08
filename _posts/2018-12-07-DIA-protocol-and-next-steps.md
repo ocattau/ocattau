@@ -12,7 +12,8 @@ Today I worked on documenting what I did (writing up a protocol of sorts) that i
 
 [my new DIA protocol](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/protocol/DIA-protocol.md) 
 
-All of this is being performed on Woodpecker in FTR 209, Roberts' Lab. All of the materials, and output files are in ```/Desktop/grace/Bri-line```
+All of this is being performed on Woodpecker in FTR 209, Roberts' Lab. All of the materials, and output files are in ```/Desktop/grace/Bri-line```    
+After all is finished, I'll upload to OWL or GitHub repo... probably GitHub repo is the best... 
 
 ### DIA next steps
 From Lindsay:   
