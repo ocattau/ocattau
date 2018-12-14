@@ -1,9 +1,10 @@
 ---
 layout: post
-title: 2015 _C. gigas_ oysterseed DIA update
+title: 2015 C. gigas oysterseed DIA update
 date: '2018-12-10'
 category: 2015Oysterseed
 tags: [DIA, protocol, Skyline]
+---
 Today I worked on the DIA protocol and now have an exported report that I think I can start using with MS Stats. Still waiting on some input from Emma, but details are below: 
 
 ## DIA Protocol
