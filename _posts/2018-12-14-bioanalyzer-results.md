@@ -17,5 +17,5 @@ Today I ran the bioanalyzer on the batch of 8 samples from Day 26 (cold, infecte
 
 ### Next steps: January 2019
 
-We have ordered a new reagent ([TRIzol LS Regent](https://www.thermofisher.com/order/catalog/product/10296028)), and will have it by January. We'll extract some RNA from some samples with that reagent and compare to yields and purity that we get from the Qiagen Kit. 
+We have ordered a new reagent ([TRIzol LS Regent](https://www.thermofisher.com/order/catalog/product/10296028)), and will tentatively have it next week (Tuesday/Wednesday). We'll extract some RNA from some samples with that reagent and compare to yields and purity that we get from the Qiagen Kit. 
 
