@@ -28,12 +28,12 @@ Contents of eDirect:
 
 The [new BLAST taxonomy](https://ftp.ncbi.nlm.nih.gov/blast/db/v5/blastdbv5.pdf) method starts with (this example was taken from the pdf):     
 
-get_species_taxids.sh -n Enterobacterales
+get_species_taxids.sh -n Enterobacterales        
 
-Taxid: 91347
- rank: order
- division: enterobacteria
- scientific name: Enterobacterales
+Taxid: 91347        
+ rank: order         
+ division: enterobacteria       
+ scientific name: Enterobacterales         
  common name:
  
 1 matches found
