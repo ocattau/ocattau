@@ -3,7 +3,7 @@ layout: post
 title: First Attempts- Trying new BLAST +2.81 with new taxid options
 date: '2019-01-15'
 category: bairdi
-tags: [BLAST, Taxonomy]
+tags: BLAST
 ---
 Today I'm trying to get started on the new BLAST +2.81 that has new databases and improved performance. This is pretty exciting because once I figure out how this works, I'll be able to easily get taxonomy information like Order, Class, etc. I'm attempting what I believe is the first step in this process: trying to get the taxid for "Decapoda". Details below of resources used and what I did. 
 
@@ -13,9 +13,9 @@ Today I'm trying to get started on the new BLAST +2.81 that has new databases an
 [New BLAST taxonomy options](https://ftp.ncbi.nlm.nih.gov/blast/db/v5/blastdbv5.pdf)
 
 Sam installed the new version on Mox:    
-```/gscratch/srlab/programs/ncbi-blast-2.8.1+/bin```        
+`/gscratch/srlab/programs/ncbi-blast-2.8.1+/bin`       
 And the databases:   
-```/gscratch/srlab/blastdbs/ncbi-nr-nt-v5```
+`/gscratch/srlab/blastdbs/ncbi-nr-nt-v5`
 
 Sam reccommends that each user installs the eDirect utilities in order to use the full taxid functionality.       
 Instructions on installing eDirect: [here](https://www.ncbi.nlm.nih.gov/books/NBK179288/)
@@ -27,7 +27,7 @@ Contents of eDirect:
 ![img](../notebook-images/edirect-contents.png)
 
 The [new BLAST taxonomy](https://ftp.ncbi.nlm.nih.gov/blast/db/v5/blastdbv5.pdf) method starts with (this example was taken from the pdf):     
-```
+
 get_species_taxids.sh -n Enterobacterales
 
 Taxid: 91347
@@ -41,17 +41,17 @@ Taxid: 91347
 get_species_taxids.sh -t 91347 > 91347.txids
 
 blastn –db nt –query QUERY –taxidlist 91347.txids –outfmt 7 –out OUTPUT.tab
-```
+
 #### So, if I'm understanding this correctly, I am going to:
 1. run the first command:     
-```get_species_taxids.sh -n Decapoda```
+`get_species_taxids.sh -n Decapoda`
 
 That will give me a taxid number, which I will:  
 
-2. then use to create a file with the extension ```.txids``` that will contain the parts of the overall nucleotide taxonomy database that are included in that taxid number:     
-```get_species_taxids.sh -t ##### > #####.txids```
+2. then use to create a file with the extension `.txids` that will contain the parts of the overall nucleotide taxonomy database that are included in that taxid number:     
+`get_species_taxids.sh -t ##### > #####.txids`
 
-3. Then, I'll perform a ```blastn``` with my query.fa (the assembled _C. bairdi_ transcriptome) against the taxid list (file with extension ```.txids```) to find all of the proteins that are associated with Decapoda, and put it into an output file (extension ```.tab```). 
+3. Then, I'll perform a `blastn` with my query.fa (the assembled _C. bairdi_ transcriptome) against the taxid list (file with extension `.txids`) to find all of the proteins that are associated with Decapoda, and put it into an output file (extension `.tab`). 
 
 #### Here's what I have currently in queue on Mox:     
 ```
