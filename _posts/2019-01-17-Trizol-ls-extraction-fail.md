@@ -40,7 +40,7 @@ For Step a of the section "Solubilize the RNA", I added 20ul of 0.1% DEPC-treate
 For Step b of the section "Solubilize the RNA", I put the samples on a heat block set to 55C for 12 minutes:    
 ![img](../notebook-images/011719-trizol-ls-extraction-images/temp-heatblock-tubes.JPG)
 
-### Qubit results were all: "Out of Range"
+### Qubit results were all: "Out of Range" (I used 1ul of sample)
 This could mean a number of things:     
 - there was no RNA in the sample to begin with       
 - there was RNA in the sample, but the protocol didn't work (I could have messed up somewhere OR maybe this isn't the right kind of protocol for the sample we have)
