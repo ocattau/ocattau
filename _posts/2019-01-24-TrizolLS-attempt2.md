@@ -8,6 +8,12 @@ tags: [RNAisolation, TrizolLS]
 Today I tried the TrizolLS Reagent extraction again, but added a vortex (5s) step after the addition of chloroform to the samples. Throughout the extraction, the samples looked pretty similar to how they did during my last attempt, and the Qubit results were the same: "out of range". 
 
 ### Here's the protocol of what I did today:
+
+#### Samples used:  
+From Day 26:     
+436-2     
+438-2     
+439-2 
 ## Trizol LS Reagent Extraction Protocol:   
 
 ### Lyse samples and separate phases:    
