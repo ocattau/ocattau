@@ -16,6 +16,8 @@ The geoduck hemolymph samples (1H and 2H) are from when Shelly was trying things
 
 I followed the [same protocol](https://grace-ac.github.io/Centrifuge-error-3-fail-extraction/) as I did for the crab hemolymph, with a few modifications. 
 
+I pipetted out 250ul of hemolymph for the geoduck samples, and used the whole tissue chunk (very small) for the oyster samples. I squished them around a little with the tip of the pipet. Probably should have used one of those tiny blue plastic pestles to smush the oyster tissue up. 
+
 After adding the Trizol LS Reagent to the samples and centrifuging them, there was no separation into a supernatant. They all looked like this:          
 ![img](../notebook-images/012619-trizol-other-organisms/cent-after-add-trizol-geoduck.jpg)   
 
