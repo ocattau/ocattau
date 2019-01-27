@@ -33,9 +33,6 @@ Oyster tissue:
 Geoduck hemolymph:     
 ![img](../notebook-images/012619-trizol-other-organisms/cent-after-add-chloro.jpg)
 
-### Next move:   
-Try out the geoduck hemolymph and some oyster tissue samples using the Qiagen RNeasy Plus Micro Kit
-
 After the addition of isopropanol, incubate at room T, and centrifuge, they all looked like this (not an obvious white gel-like pellet at the bottom... but I continued as though there were one):    
 ![img](../notebook-images/012619-trizol-other-organisms/after-add-iso-cent.jpg)
 
@@ -46,3 +43,8 @@ There was no detectable RNA in either of the geoduck hemolymph samples.
 
 There WAS a lot of detectable RNA in one oyster tissue sample, and too much in the other. The Qubit screen was this for the one that was too high:    
 ![img](../notebook-images/012619-trizol-other-organisms/qubit-too-high.jpg)
+
+### Next move:   
+Try out the geoduck hemolymph and some oyster tissue samples using the Qiagen RNeasy Plus Micro Kit
+
+Bioanalyze all samples that had detectable RNA based on Qubit results
