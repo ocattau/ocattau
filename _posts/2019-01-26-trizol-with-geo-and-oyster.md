@@ -38,7 +38,8 @@ After the addition of isopropanol, incubate at room T, and centrifuge, they all 
 
 The rest of the protocol was pretty much the same, except that I forgot to heat up the heat block earlier, so they waited at room temp for about 5 mins before they incubated at 55C. 
 
-### Qubit Results (google sheet [link](https://docs.google.com/spreadsheets/d/1qmAQoS5FmPo1h0d2qMuJaUDUAICYJdzT2NC2aJRtQNA/edit#gid=0)):    
+### Qubit Results (google sheet [link](https://docs.google.com/spreadsheets/d/1qmAQoS5FmPo1h0d2qMuJaUDUAICYJdzT2NC2aJRtQNA/edit#gid=0)):   
+Used 1ul of sample for quantification.     
 There was no detectable RNA in either of the geoduck hemolymph samples.    
 
 There WAS a lot of detectable RNA in one oyster tissue sample, and too much in the other. The Qubit screen was this for the one that was too high:    
