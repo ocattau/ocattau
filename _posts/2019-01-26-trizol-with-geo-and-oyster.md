@@ -7,7 +7,7 @@ tags: [RNAisolation, TrizolLS]
 ---
 Today I tried out the Trizol LS Reagent RNA extraction protocol on two geoduck (_P. generosa_) hemolymph and two oyster (_C. virginica_) tissue samples. (GitHub Issue [#533](https://github.com/RobertsLab/resources/issues/553))
 
-## Note (01/28/2019): Trizol LS (liquid sample) should not be used with tissue samples. So, the extraction using oyster tissue in this post should be disregarded. 
+## Note (01/28/2019): Trizol LS (liquid sample) reagent was not designed to be used with tissue samples. ([GitHub Issue #555](https://github.com/RobertsLab/resources/issues/555))
 
 ## What I did today:
 The samples I used (from this [GitHub Issue](https://github.com/RobertsLab/resources/issues/554)):    
