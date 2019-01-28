@@ -52,4 +52,4 @@ There WAS a lot of detectable RNA in one oyster tissue sample, and too much in t
 ### Next move:   
 Try out the geoduck hemolymph and some oyster tissue samples using the Qiagen RNeasy Plus Micro Kit
 
-Bioanalyze all samples that had detectable RNA based on Qubit results
+Bioanalyze all samples that had detectable RNA based on Qubit results (so far just the oyster tissue samples)
