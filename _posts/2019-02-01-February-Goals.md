@@ -13,5 +13,6 @@ tags: [MonthlyGoals]
 #### RNA isolations
 - make a visual that shows everything that has been tried and the results of the attempts
 - identify next steps based on this visual and start moving foward with it
+
 #### Assembled transcriptome
 - more BLASTs, think about/start organizing into a clean pipeline 
