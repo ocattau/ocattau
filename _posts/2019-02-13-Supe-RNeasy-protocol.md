@@ -36,22 +36,21 @@ Add 6 ul of this diluted solution to 54ul of Buffer RLT plus to get a working so
 
 Move the ~1ml of supernatant to a 15ml falcon tube
 
-1. Add 350ul of Buffer RLT Plus and B-ME solution. Vortex to mix 
+1. Add 350ul of Buffer RLT Plus and B-ME solution. Vortex to mix and run through a QIA shredder column 700ul at a time to further homogenize. 
 
-2. Add 5ul of diluted carrier RNA solution and vortex 1 min.        
-This is what the protocol says for working with <500 cells. I don't know how  many cells (if any) are in the supernatant...
+2. Add 5ul of diluted carrier RNA (20 ng carrier RNA) solution and vortex 1 min.        
 
-3. Transfer the homogenized lysate to a gDNA Eliminator spin column placed in a 2ml collection tube. Centrifuge for 30s and 8,000 g. Discard column and save flow-through. 
+3. Transfer the homogenized lysate to a gDNA Eliminator spin column placed in a 2ml collection tube. Centrifuge for 30s and full speed. Discard column and save flow-through. 
 
 4. Add 350ul of 70% ethanol to flow-through from step 3. Mix well by pipetting. Do not centrifuge. 
 
-5. Transfer sample, including any precipitate that may have formed, to an RNeasy MinElute  spin column placed in a 2ml collection tube. Close the lid gently and centrifuge for 15s at 8,000g. Discard flow-through. 
+5. Transfer sample, including any precipitate that may have formed, to an RNeasy MinElute  spin column placed in a 2ml collection tube. Close the lid gently and centrifuge for 15s at full speed. Discard flow-through. 
 
-6. Add 700ul of Buffer RW1 to RNeasy MinElute spin column. close lid gently and centrifuge for 15s at 8,000g. Discard flow-through. 
+6. Add 700ul of Buffer RW1 to RNeasy MinElute spin column. close lid gently and centrifuge for 15s at full speed. Discard flow-through. 
 
-7. Add 500ul of Buffer RPE to RNeasy MinElute spin column. close lid gently and centrifuge for 15s at 8,000g. Discard flow-through. 
+7. Add 500ul of Buffer RPE to RNeasy MinElute spin column. close lid gently and centrifuge for 15s at full speed. Discard flow-through. 
 
-8. Add 500ul of 80% ethanol to RNeasy MinElute spin column. Close lid gently and centrifuge for 2 min at 8,000g. Discard collection tube and flow-through. 
+8. Add 500ul of 80% ethanol to RNeasy MinElute spin column. Close lid gently and centrifuge for 2 min at full speed. Discard collection tube and flow-through. 
 
 9. Place RNeasy MinElute spin column in new 2ml collection tube. Cut off and save lid of spin column. Place tubes open in the centrifuge and spin at full speed for 5 min. Discard collection tube and flow-through 
 
