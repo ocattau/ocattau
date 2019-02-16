@@ -8,3 +8,5 @@ We are working on last steps of getting a genome together including annoation. A
 
 
 Maker is currently running on version 070 and 071. Using blast I have created a crude expressed gene track using [transcriptome version 4 - larval transcriptome](https://sr320.github.io/Geoduck-larval-transcriptome/) and version 071. Some [code](https://github.com/sr320/nb-2019/blob/master/P_generosa/03-Simple-gene-track.ipynb) and the [resulting gff](https://d.pr/f/ZBix9V) with ~15M regions. In addition, [taking a intermediate maker output](https://github.com/sr320/nb-2019/blob/master/P_generosa/02-Exploring-early-070-maker.ipynb) from version 070 I generated [a gff](https://d.pr/f/9T87e5) with about 130k gene regions.
+
+Note there is also blast output from taking transcriptome version 5 - _everything_ and using against version 071 of genome. [tab-output](http://gannet.fish.washington.edu/seashell/bu-mox/analyses/1119/geo-tran-v071.tab)
