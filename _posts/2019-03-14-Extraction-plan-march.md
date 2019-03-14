@@ -19,7 +19,7 @@ To start, we'll do 12 sets of 8 tubes, running 1ul of each sample on the Qubit a
 **The goal is to get to the point where I have 12 pooled samples, each with at least 1000ng RNA in 50ul of DEPC-treated H20.** 
 
 ### Protocol preparation 
-**Q: Should I prep huge containers of reagents or should I prep them fresh before each extraction?**
+Make solutions fresh before each extraction. Or maybe make large quantities of the two ethanols and just a fresh Buffer+2-Bme? or large batches of all three....
 
 Make:      
 70% ethanol      
