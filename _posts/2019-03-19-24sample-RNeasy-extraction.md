@@ -65,7 +65,7 @@ Thawed hemolymph slurry:
 ![img](../notebook-images/031919-RNeasy-24sample/31919-board-RNeasy-plan.JPG)
 
 ### Starting protocol finally (1.5hrs for 24 samples)
-1. Added 250ul of Buffer RLT + B-ME (did under hood in 209 because it smells awful)
+1. Added 350ul of Buffer RLT + B-ME (did under hood in 209 because it smells awful)
 2. Vortexed all for a few seconds
 3. Transfered contents to QIA shredder columns (under hood as well because stinky)
 4. Centrifuge 2min full speed (takes a while putting in and taking out 24 tubes)
