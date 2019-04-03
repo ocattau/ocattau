@@ -56,7 +56,9 @@ These samples are 12 of the ones that I used last time ([March 19, 2019](https:/
 ### Qubit Results
 [Google sheet](https://docs.google.com/spreadsheets/d/1o_BsLhAC0fkzFJ7VtzgUFediy3KueRXkb27flbaxGs8/edit#gid=0) 
 
-Only 1 tube had RNA: sample 135 (4.60 ng/ul with a 1ul sample used on the Qubit RNA HS)    
+Only 1 tube had RNA: sample 135 (4.60 ng/ul with a 1ul sample used on the Qubit RNA HS)   
+
+I saved the samples in the -80 (Rack 7, col 3, row 1) 
 
 ### Two days ago: I ran 10ul of the 24 eluted samples on Qubit to see if there was any RNA
 GitHub Issue [#636](https://github.com/RobertsLab/resources/issues/636)         
@@ -64,4 +66,6 @@ GitHub Issue [#636](https://github.com/RobertsLab/resources/issues/636)
 [Google sheet](https://docs.google.com/spreadsheets/d/1me8cRniPYfM4AUiFo5oO2cS_7km00uroTeMCktiMTFk/edit#gid=0)  
 
 The sample that had RNA today (tube 135) did not have RNA in it when I ran 10ul of the sample on the Qubit two days ago. 
+
+The samples are pretty much done from that extraction, but I saved the tubes anyway in the -80 (Rack 7, col 3, row 1) 
 
