@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RNeasy Kit Extraction with 12 samples - RNA in 1/24
+title: RNeasy Kit Extraction with 12 samples - RNA in 1/12
 date: '2019-04-03'
 category: bairdi
 tags: [RNeasy, RNAisolation]
