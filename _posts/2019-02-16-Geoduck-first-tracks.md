@@ -1,12 +1,32 @@
 ---
 layout: post
-title: First Tracks of Geoduck Genome
-date: '2019-02-16'
+title: BS Mapping Oly Cats
+date: '2019-06-30'
 ---
 
-We are working on last steps of getting a genome together including annoation. As of now we are working with [version 070](http://owl.fish.washington.edu/halfshell/genomic-databank/Pgenerosa_v070.fa) (via Phase Genomics, with Hi-C added to 10X, further improved with 10k MP library alignment) with about 300k scaffolds. And reduced versions limited to scaffolds greater than 10k bp [version 071](http://owl.fish.washington.edu/halfshell/genomic-databank/Pgenerosa_v071.fasta) and greater than 10k bp [version 073](http://owl.fish.washington.edu/halfshell/genomic-databank/Pgenerosa_v073.fasta), with 14014 and 1350 scaffolds respectively.
+Working on the genetics / epigenetics paper, I decided to try to concatenate all reads and align with Bismark in order to get some basic stats.
 
+[0620_1100.sh](https://d.pr/n/ujWPIe)
 
-Maker is currently running on version 070 and 071. Using blast I have created a crude expressed gene track using [transcriptome version 4 - larval transcriptome](https://sr320.github.io/Geoduck-larval-transcriptome/) and version 071. Some [code](https://github.com/sr320/nb-2019/blob/master/P_generosa/03-Simple-gene-track.ipynb) and the [resulting gff](https://d.pr/f/ZBix9V) with ~15M regions. In addition, [taking a intermediate maker output](https://github.com/sr320/nb-2019/blob/master/P_generosa/02-Exploring-early-070-maker.ipynb) from version 070 I generated [a gff](https://d.pr/f/9T87e5) with about 130k gene regions.
+tldr
+```
+#SBATCH --workdir=/gscratch/scrubbed/sr320/0620
 
-Note there is also blast output from taking transcriptome version 5 - _everything_ and using against version 071 of genome. [tab-output](http://gannet.fish.washington.edu/seashell/bu-mox/analyses/1119/geo-tran-v071.tab)
+${bismark_dir}/bismark \
+--path_to_bowtie ${bowtie2_dir} \
+-genome /gscratch/srlab/sr320/data/olurida-genomes/v081 \
+-p 14 \
+--non_directional \
+/gscratch/scrubbed/sr320/0620/zr1394_all_s456_trimmed.fq
+```
+
+```
+Final Alignment report
+======================
+Sequences analysed in total:	1635584275
+Number of alignments with a unique best hit from the different alignments:	507562199
+Mapping efficiency:	31.0%
+Sequences with no alignments under any condition:	477689355
+Sequences did not map uniquely:	650332721
+Sequences which were discarded because genomic sequence could not be extracted:	496024
+```
