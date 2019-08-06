@@ -6,6 +6,8 @@ date: '2019-06-30'
 
 Working on the genetics / epigenetics paper, I decided to try to concatenate all reads and align with Bismark in order to get some basic stats.
 
+Here is the script. 
+
 [0620_1100.sh](https://d.pr/n/ujWPIe)
 
 tldr
