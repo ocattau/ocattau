@@ -160,3 +160,120 @@ C methylated in CpG context:	1.5%
 C methylated in CpG context:	1.1%
 C methylated in CpG context:	1.0%
 ```
+
+
+---
+
+Realizing this was only lane 02 went ahead and redid with all data:
+
+script https://d.pr/n/UHEhvQ
+
+and got an average of `1.174038462` when looking at
+
+```
+[sr320@mox1 1104b]$ cat *txt | grep "C methylated in CpG context:"
+C methylated in CpG context:	0.9%
+C methylated in CpG context:	0.9%
+C methylated in CpG context:	1.2%
+C methylated in CpG context:	1.1%
+C methylated in CpG context:	1.0%
+C methylated in CpG context:	0.9%
+C methylated in CpG context:	0.9%
+C methylated in CpG context:	0.9%
+C methylated in CpG context:	0.9%
+C methylated in CpG context:	0.9%
+C methylated in CpG context:	1.1%
+C methylated in CpG context:	1.1%
+C methylated in CpG context:	0.9%
+C methylated in CpG context:	0.7%
+C methylated in CpG context:	1.4%
+C methylated in CpG context:	1.4%
+C methylated in CpG context:	1.2%
+C methylated in CpG context:	1.1%
+C methylated in CpG context:	1.1%
+C methylated in CpG context:	1.1%
+C methylated in CpG context:	0.9%
+C methylated in CpG context:	0.9%
+C methylated in CpG context:	1.0%
+C methylated in CpG context:	1.2%
+C methylated in CpG context:	1.2%
+C methylated in CpG context:	1.1%
+C methylated in CpG context:	1.0%
+C methylated in CpG context:	0.9%
+C methylated in CpG context:	1.3%
+C methylated in CpG context:	1.3%
+C methylated in CpG context:	1.2%
+C methylated in CpG context:	1.1%
+C methylated in CpG context:	1.2%
+C methylated in CpG context:	1.3%
+C methylated in CpG context:	1.1%
+C methylated in CpG context:	1.1%
+C methylated in CpG context:	1.4%
+C methylated in CpG context:	1.5%
+C methylated in CpG context:	1.2%
+C methylated in CpG context:	1.3%
+C methylated in CpG context:	1.8%
+C methylated in CpG context:	1.8%
+C methylated in CpG context:	1.1%
+C methylated in CpG context:	1.0%
+C methylated in CpG context:	1.6%
+C methylated in CpG context:	1.5%
+C methylated in CpG context:	1.1%
+C methylated in CpG context:	1.0%
+C methylated in CpG context:	1.0%
+C methylated in CpG context:	0.9%
+C methylated in CpG context:	1.1%
+C methylated in CpG context:	1.2%
+C methylated in CpG context:	1.2%
+C methylated in CpG context:	1.2%
+C methylated in CpG context:	1.0%
+C methylated in CpG context:	1.0%
+C methylated in CpG context:	1.2%
+C methylated in CpG context:	1.1%
+C methylated in CpG context:	1.6%
+C methylated in CpG context:	1.6%
+C methylated in CpG context:	1.5%
+C methylated in CpG context:	1.5%
+C methylated in CpG context:	1.4%
+C methylated in CpG context:	1.5%
+C methylated in CpG context:	1.5%
+C methylated in CpG context:	1.4%
+C methylated in CpG context:	1.1%
+C methylated in CpG context:	1.2%
+C methylated in CpG context:	1.3%
+C methylated in CpG context:	1.3%
+C methylated in CpG context:	1.1%
+C methylated in CpG context:	1.2%
+C methylated in CpG context:	1.5%
+C methylated in CpG context:	1.5%
+C methylated in CpG context:	1.2%
+C methylated in CpG context:	1.3%
+C methylated in CpG context:	1.6%
+C methylated in CpG context:	1.6%
+C methylated in CpG context:	1.3%
+C methylated in CpG context:	1.3%
+C methylated in CpG context:	1.2%
+C methylated in CpG context:	1.1%
+C methylated in CpG context:	1.2%
+C methylated in CpG context:	1.1%
+C methylated in CpG context:	1.2%
+C methylated in CpG context:	1.4%
+C methylated in CpG context:	1.3%
+C methylated in CpG context:	1.2%
+C methylated in CpG context:	0.7%
+C methylated in CpG context:	0.7%
+C methylated in CpG context:	1.3%
+C methylated in CpG context:	1.4%
+C methylated in CpG context:	0.9%
+C methylated in CpG context:	0.9%
+C methylated in CpG context:	1.1%
+C methylated in CpG context:	1.2%
+C methylated in CpG context:	1.0%
+C methylated in CpG context:	1.0%
+C methylated in CpG context:	0.9%
+C methylated in CpG context:	1.0%
+C methylated in CpG context:	1.1%
+C methylated in CpG context:	1.2%
+C methylated in CpG context:	0.9%
+C methylated in CpG context:	0.9%
+```
