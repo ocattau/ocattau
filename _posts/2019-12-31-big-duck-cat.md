@@ -2,7 +2,7 @@
 layout: post
 title: Looking for the big Duck cat
 date: '2019-12-31'
-categories: geoduck
+categories: Geoduck
 tags: mox, methylation, bismark
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: Reproducing whole-Duck analyses, with a few bumps
 date: '2019-12-30'
-categories: geoduck
+categories: Geoduck
 tags: mox, methylation, bismark
 ---
 
