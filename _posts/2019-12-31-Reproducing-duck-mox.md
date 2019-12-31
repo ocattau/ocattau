@@ -6,7 +6,7 @@ categories: geoduck
 tags: mox, methylation, bismark
 ---
 
-In preparation for the soon submission of the genome paper, I re-ran some mox jobs to see if we could reproduce the paper, particular with regard to the new naming scheme.
+In preparation for the soon submission of the geoduck genome paper, I re-ran some mox jobs to see if we could reproduce the paper, particular with regard to the new naming scheme.
 The two scripts were [1217_1300.sh](https://d.pr/n/bDbA5x) and [1218_1000.sh](https://d.pr/n/6T2xWq).
 
 "New" aspects of both include `coverage2cytosine`
