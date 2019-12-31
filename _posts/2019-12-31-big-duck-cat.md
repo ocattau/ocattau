@@ -3,7 +3,7 @@ layout: post
 title: Looking for the big Duck cat
 date: '2019-12-31'
 categories: Geoduck
-tags: mox, methylation, bismark
+tags: [mox, methylation, bismark]
 ---
 
 To have a general description of the geoduck methylation landscape, we take all 51 BS samples, concatenate, and map.

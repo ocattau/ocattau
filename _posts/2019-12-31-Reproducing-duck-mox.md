@@ -3,7 +3,7 @@ layout: post
 title: Reproducing whole-Duck analyses, with a few bumps
 date: '2019-12-30'
 categories: Geoduck
-tags: mox methylation bismark
+tags: [mox, methylation, bismark]
 ---
 
 In preparation for the soon submission of the geoduck genome paper, I re-ran some mox jobs to see if we could reproduce the paper, particular with regard to the new naming scheme.
