@@ -2,11 +2,11 @@
 layout: post
 title: Geoduck Gonad Gene Annotations
 date: '2016-09-23'
-categories: Panopea
+categories: Geoduck
 tags: blast, geoduck, swissprot, excel, join, sqlshare
 ---
 
-After kicking around how to make a very big table with all of the annotations... I finally made some progress. 
+After kicking around how to make a very big table with all of the annotations... I finally made some progress.
 
 **tldr**; [Annotation table](https://github.com/sr320/paper-pano-go/blob/master/jupyter-nbs/analyses/_Master-SP-Gig-Ruphi_Dh.txt) with SwissProt, Gigaton, Ruphibase, Dheilly-comparison.      
 - also in [excel](https://github.com/sr320/paper-pano-go/raw/master/jupyter-nbs/analyses/_Master-SP-Gig-Ruphi_Dh.xlsx).
@@ -26,15 +26,15 @@ Here are a few bash moments I was fond of...
 analyses/Geoduck-transcriptome-v3-IDonly.tab \
 analyses/Geo-v3-join-uniprot-all0916-condensed.sorted \
 > analyses/_Master-SP
-``` 
-outputs tab and keeps all of file 1 - important is that `-t $'\t'` needs to go before arguments. 
+```
+outputs tab and keeps all of file 1 - important is that `-t $'\t'` needs to go before arguments.
 
 I cleaned up a blast table
 
 ```bash
 !sort analyses/Geoduck-v3_blastn_GIGAton_e10.out | awk -v OFS='\t' '{ print $1, $11, $2}' \
 > analyses/Geoduck-v3_blastn_GIGAton_e10.out.sorted
-``` 
+```
 and with `-v OFS='\t'` made sure output was tab-delimited.  
 
 you can even read in and out on different delimiters...
@@ -57,7 +57,7 @@ The first join was with the SP blast (I could use the bashed up files to upload 
 
 
 ```sql
-SELECT 
+SELECT
 *
 FROM [roberts.sbr@gmail.com].[Geoduck-transcriptome-v3-IDonly]ID
 left join
@@ -78,7 +78,7 @@ on
 ID.Column1 = Dh.GEOID
 ```
 
-I downloaded this... then `!open analyses/_Master-SP-Gig-Ruphi_Dh.csv -a "Microsoft Excel"` and succumbed to Excel to clean up a bit and validate. 
+I downloaded this... then `!open analyses/_Master-SP-Gig-Ruphi_Dh.csv -a "Microsoft Excel"` and succumbed to Excel to clean up a bit and validate.
 
 <img src="http://eagle.fish.washington.edu/cnidarian/skitch/_Master-SP-Gig-Ruphi_Dh_1D95DB9F.png" alt="_Master-SP-Gig-Ruphi_Dh_1D95DB9F.png"/>
 

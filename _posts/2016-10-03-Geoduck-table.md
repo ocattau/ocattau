@@ -2,7 +2,7 @@
 layout: post
 title: Geoduck data table
 date: '2016-10-03'
-categories: Panopea
+categories: Geoduck
 tags: annotation
 tags: geoduck
 
