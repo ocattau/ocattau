@@ -1,10 +1,29 @@
 ---
 layout: post
 title: Refreshing the Caligus
-date: '2019-12-31'
+date: '2020-01-30'
 categories: caligus
-tags: mox, methylation, bismark
+tags: [mox, methylation, bismark, updated]
 ---
+
+Updated: January 30
+
+With very low mapping efficiency (~8) https://github.com/RobertsLab/resources/issues/821
+
+I reran https://d.pr/n/z8SSi3
+
+with a few alignment tweaks
+
+```
+--non_directional \
+--dovetail \
+```
+
+I expect the non_directional (presuming accurate) could double efficiency.
+
+
+---
+2019-12-31
 
 In an effort to back into lice, I tried rerunning bismark such that we could visualize with reasonable thresholds. job: https://d.pr/n/lyMYD9
 
