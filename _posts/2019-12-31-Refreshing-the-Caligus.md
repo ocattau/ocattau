@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Refreshing the Caligus
-date: '2020-01-30'
+date: '2020-02-03'
 categories: caligus
 tags: [mox, methylation, bismark, updated]
 ---
