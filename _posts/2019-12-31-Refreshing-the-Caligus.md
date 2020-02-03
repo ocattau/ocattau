@@ -22,6 +22,7 @@ Average methylation about 2%
 ![cpg](http://gannet.fish.washington.edu/seashell/snaps/Bismark_Project_Summary_Report_-_Bismark_Summary_Report_2020-02-03_10-43-27.png)
 
 Will now try trimmed reads
+https://d.pr/n/XEwi10
 
 ---
 
