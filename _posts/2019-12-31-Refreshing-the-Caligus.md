@@ -6,6 +6,25 @@ categories: caligus
 tags: [mox, methylation, bismark, updated]
 ---
 
+Updated: February 03
+
+Mapping efficiency did in fact almost double
+
+```
+Mapping efficiency:	15.9%
+Mapping efficiency:	15.6%
+Mapping efficiency:	11.6%
+Mapping efficiency:	11.4%
+```
+
+Average methylation about 2%
+
+![cpg](http://gannet.fish.washington.edu/seashell/snaps/Bismark_Project_Summary_Report_-_Bismark_Summary_Report_2020-02-03_10-43-27.png)
+
+Will now try trimmed reads
+
+---
+
 Updated: January 30
 
 With very low mapping efficiency (~8) https://github.com/RobertsLab/resources/issues/821
