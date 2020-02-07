@@ -1,9 +1,28 @@
 ---
 layout: post
 title: Refreshing the Caligus
-date: '2020-02-03'
+date: '2020-02-07'
 categories: caligus
 tags: [mox, methylation, bismark, updated]
+---
+
+Updated: February 05
+Trimmed reads again increased mapping efficiency
+
+```
+Mapping efficiency:	28.2%
+Mapping efficiency:	27.9%
+Mapping efficiency:	21.8%
+Mapping efficiency:	21.5%
+```
+
+![report](http://gannet.fish.washington.edu/seashell/snaps/Bismark_Processing_Report_-_gscratchsrlabsr320datacaligusreadstrimmedsl2Sealice_F2_S22_L002_R1_001_val_1.fq.gz_and_gs_2020-02-07_13-47-48.png)
+
+
+Seems ok.. now will "post-process". Specifically https://d.pr/n/hwSCRy
+
+
+
 ---
 
 Updated: February 03
@@ -22,7 +41,9 @@ Average methylation about 2%
 ![cpg](http://gannet.fish.washington.edu/seashell/snaps/Bismark_Project_Summary_Report_-_Bismark_Summary_Report_2020-02-03_10-43-27.png)
 
 Will now try trimmed reads
-https://d.pr/n/XEwi10
+https://d.pr/n/JnNCn9
+
+
 
 ---
 
