@@ -12,3 +12,6 @@ In an effort to ID developmentally important genes bases on cross species compar
 
 https://github.com/sr320/nb-2021/blob/main/C_gigas/analyses/Cg-annot-join-V1.1.tab
 
+
+R code https://rpubs.com/sr320/722583
+
